@@ -225,6 +225,8 @@ footer {
     .main-content {
         width: 90%;
     }
+
+    
 }
 
 @media only screen and (max-width: 768px) {
@@ -308,5 +310,12 @@ footer {
     #name {
         width:100%;
         margin-left: 0%;
+    }
+
+    #p1 img {
+        width: 100%;
+        height: auto;
+        margin-right: 0;
+        float:none;
     }
 }
