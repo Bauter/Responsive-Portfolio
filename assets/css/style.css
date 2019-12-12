@@ -108,7 +108,9 @@ nav {
 }
 
 footer {
-    position: sticky;
+    position: absolute;
+    bottom:0%;
+    width: 100%;
     border-top: 8px solid #4aaaa5;
     text-align: center;
     background-color: #666666;
